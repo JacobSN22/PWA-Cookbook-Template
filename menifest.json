@@ -1,0 +1,13 @@
+{
+    "name": "PVA cookbook",
+    "short_name": "cookbook",
+    "description": "A online cookbook for free use where people can share their own",
+    "start_url": "http://127.0.0.1:5500/",
+    "id": "CookBook",
+    "theme_color": "black",
+    "background_color": "white",
+    "orientation": "portrait-primary",
+    "display": "large"
+
+
+}
