@@ -6,8 +6,7 @@
     "id": "CookBook",
     "theme_color": "black",
     "background_color": "white",
-    "orientation": "portrait-primary",
-    "display": "large"
+    "orientation": "portrait-primary"
 
 
 }
