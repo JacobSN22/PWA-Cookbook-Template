@@ -1,16 +1,16 @@
-const staticCacheName = 'site-static'
+const staticCacheName = 'site-static-v8'
 
-const dynamicCacheName = 'site-dynamic-v1'
+const dynamicCacheName = 'site-dynamic-v8'
 
 const assets = [
    '/',
-   ':/index.html',
-   ':/js/app.js',
-   ':/js/ui.js',
-   ':/js/materialize.min.js',
-   ':/css/style.css',
-   ':/css/materialize.min.css',
-   ':/img/dish.png',
+   './index.html',
+   './js/app.js',
+   './js/ui.js',
+   './js/materialize.min.js',
+   './css/styles.css',
+   './css/materialize.min.css',
+   './img/dish.png',
 ]
 
 self.addEventListener("install", event => {
